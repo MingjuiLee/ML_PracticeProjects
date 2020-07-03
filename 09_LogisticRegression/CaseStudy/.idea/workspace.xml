@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bed7fea9-b471-422c-87be-0c3e5f28dbc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/9_LogisticRegression.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/leeray1208.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Social_Network_Ads.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistic_reg_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logistic_regression.py" afterDir="false" />
-    </list>
+    <list default="true" id="2f8feef4-8a9d-43a7-85f6-2e0cd11cfaa6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +11,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/logistic_reg_practice.py">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+            <state relative-caret-position="364">
+              <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
               <folding>
-                <element signature="e#45#63#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,19 +25,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logistic_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="10" />
-              <folding>
-                <element signature="e#49#67#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="296">
+              <caret line="46" selection-start-line="46" selection-end-line="47" selection-end-column="66" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Social_Network_Ads.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11721" />
           </provider>
         </entry>
       </file>
@@ -60,20 +40,25 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>?</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/logistic_reg_practice.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/9_LogisticRegression.iml" />
+        <option value="$PROJECT_DIR$/.idea/CaseStudy.iml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
@@ -91,18 +76,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="9_LogisticRegression" type="b2602c69:ProjectViewProjectNode" />
-              <item name="9_LogisticRegression" type="462c0819:PsiDirectoryNode" />
+              <item name="CaseStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CaseStudy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,8 +108,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="logistic_reg_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="9_LogisticRegression" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CaseStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -135,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic_reg_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.logistic_reg_practice" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,17 +140,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bed7fea9-b471-422c-87be-0c3e5f28dbc2" name="Default Changelist" comment="" />
-      <created>1593726533010</created>
+      <changelist id="2f8feef4-8a9d-43a7-85f6-2e0cd11cfaa6" name="Default Changelist" comment="" />
+      <created>1593806041273</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593726533010</updated>
+      <updated>1593806041273</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -187,27 +171,29 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Social_Network_Ads.csv">
+    <entry file="file://$PROJECT_DIR$/breast-cancer-wisconsin.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/breast_cancer.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11721" />
+        <state>
+          <caret selection-end-column="187" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logistic_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="10" />
-          <folding>
-            <element signature="e#49#67#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="296">
+          <caret line="46" selection-start-line="46" selection-end-line="47" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logistic_reg_practice.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        <state relative-caret-position="364">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
           <folding>
-            <element signature="e#45#63#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
